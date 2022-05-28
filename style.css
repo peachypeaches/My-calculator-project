@@ -1,0 +1,21 @@
+.title {
+  margin-bottom: 10px;
+  text-align: center;
+  width: 210px;
+  color: rgba(108, 134, 14, 0.878);
+}
+input[type="button"] {
+  border-radius: 10px;
+  background-color: rgba(173, 216, 18, 0.878);
+  width: 100%;
+}
+input[type="text"] {
+  border-radius: 10px;
+  text-align: right;
+  background-color: white;
+  border-color: rgb(10 10 10 / 88%);
+}
+table {
+  border-radius: 7px;
+  border-color: rgba(173, 216, 18, 0.878);
+}
