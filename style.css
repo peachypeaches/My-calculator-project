@@ -2,11 +2,11 @@
   margin-bottom: 10px;
   text-align: center;
   width: 210px;
-  color: rgba(108, 134, 14, 0.878);
+  color: blueviolet;
 }
 input[type="button"] {
   border-radius: 10px;
-  background-color: rgba(173, 216, 18, 0.878);
+  background-color: blueviolet;
   width: 100%;
 }
 input[type="text"] {
@@ -17,5 +17,5 @@ input[type="text"] {
 }
 table {
   border-radius: 7px;
-  border-color: rgba(173, 216, 18, 0.878);
+  border-color: blueviolet;
 }
